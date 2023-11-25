@@ -34,7 +34,7 @@ Include screenshots or GIFs showcasing your app in action. This provides a quick
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/image-editor.git
+   [git clone https://github.com/your-username/image-editor.git](https://github.com/samir-sayyed/Image-Editor.git)
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or a physical device.
 
