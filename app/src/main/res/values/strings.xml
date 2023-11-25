@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Image Editor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gallary">Gallary</string>
+    <string name="camera">Camera</string>
+    <string name="are_you_sure">Are you sure you want discard changes.</string>
+    <string name="discard">Discard</string>
+    <string name="save">Save</string>
+    <string name="unsaved_file">Unsaved Image</string>
+    <string name="recent_edits">Recent Edits</string>
+    <string name="no_recent_edits_start_editing_now">No recent edits, start editing now!</string>
+    <string name="close">Close</string>
+    <string name="image_info">Image Info</string>
+</resources>

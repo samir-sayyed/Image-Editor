@@ -1,0 +1,19 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+o
+?app/src/main/java/com/sam/imageeditor/fragments/HomeFragment.kt,1\6\163d0ddf18dd88af968e61a03f1f6f32a97628cb
+r
+Bapp/src/main/java/com/sam/imageeditor/util/ImageSelectionHelper.kt,2\d\2def77090b1f85b780496488aa19d4429400e01e
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+h
+8app/src/main/java/com/sam/imageeditor/util/Extentions.kt,2\a\2a5395d3444dbb2b8cf128dccb4ac7b3fb1011d7
+t
+Dapp/src/main/java/com/sam/imageeditor/fragments/ImageEditFragment.kt,3\e\3e7faa06208691f1905ddf5257c7a9f38e35f079
+m
+=app/src/main/java/com/sam/imageeditor/adapter/ImageAdapter.kt,7\4\74a04e4ab5b68791cf86faaa7de4d442dd800c2d
+p
+@app/src/main/java/com/sam/imageeditor/util/ImportImagesHelper.kt,d\f\df0e090a4a35d640ceb1572691cfd55592a31676
